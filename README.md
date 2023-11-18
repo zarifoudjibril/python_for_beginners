@@ -8,4 +8,4 @@ This is the repository for python for beginners tutorials
 
 | # |             Code                                               | Video Tutorials                                                            |          
 | --|:------------------------------------------------------------------------------------------------------------------------------|-------------------- |
-| 1 |  [Python for beginners - Variables](https://github.com/zarifoudjibril/python_pour_debutants_absolus/tree/main/chapitre_1)   | [Python for beginners - Variables](https://www.youtube.com/watch?v=I2saPNqofXE&list=PLf--0EtRVhJFdYV-PkTsBQN0BMwzxY0_u)  | 
+| 1 |  [Python for Beginners - Variables](https://github.com/zarifoudjibril/python_pour_debutants_absolus/tree/main/chapitre_1)   | [Python for Beginners - Variables](https://www.youtube.com/watch?v=I2saPNqofXE&list=PLf--0EtRVhJFdYV-PkTsBQN0BMwzxY0_u)  | 
